@@ -44,6 +44,3 @@ OW_API_KEY = "YOUR_KEY_HERE"
 
 ## Note
 Ensure that you have a valid and active OpenWeather API key stored in the `.env` file for the application to fetch weather data successfully.
-
-This README would normally document whatever steps are necessary to get the
-application up and running.

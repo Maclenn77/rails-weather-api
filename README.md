@@ -27,4 +27,11 @@ docker-compose run --service-ports web bash
 
 if you now run docker-compose up from the host machine, the Rails application will start, and you should be able to access it at localhost:3000.
 
+Add Openweather API KEY
+
+/.env
+```bash
+OW_API_KEY = "YOUR_KEY_HERE"
+```
+
 * ...
